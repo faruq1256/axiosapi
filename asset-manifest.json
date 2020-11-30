@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axiosapi/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/axiosapi/static/js/main.457da218.chunk.js",
+    "main.js.map": "/axiosapi/static/js/main.457da218.chunk.js.map",
+    "runtime-main.js": "/axiosapi/static/js/runtime-main.b3c99779.js",
+    "runtime-main.js.map": "/axiosapi/static/js/runtime-main.b3c99779.js.map",
+    "static/js/2.4bd065aa.chunk.js": "/axiosapi/static/js/2.4bd065aa.chunk.js",
+    "static/js/2.4bd065aa.chunk.js.map": "/axiosapi/static/js/2.4bd065aa.chunk.js.map",
+    "static/js/3.82942317.chunk.js": "/axiosapi/static/js/3.82942317.chunk.js",
+    "static/js/3.82942317.chunk.js.map": "/axiosapi/static/js/3.82942317.chunk.js.map",
+    "index.html": "/axiosapi/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/axiosapi/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4bd065aa.chunk.js.LICENSE.txt": "/axiosapi/static/js/2.4bd065aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3c99779.js",
+    "static/js/2.4bd065aa.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.457da218.chunk.js"
+  ]
+}
